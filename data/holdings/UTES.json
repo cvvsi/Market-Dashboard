@@ -2,44 +2,44 @@
   "symbol": "UTES",
   "holdings": [
     {
+      "symbol": "TLN",
+      "weight": 0.1088637
+    },
+    {
       "symbol": "CEG",
-      "weight": 0.117129296
+      "weight": 0.1082356
     },
     {
       "symbol": "VST",
-      "weight": 0.1131073
-    },
-    {
-      "symbol": "TLN",
-      "weight": 0.1113737
+      "weight": 0.0998014
     },
     {
       "symbol": "XEL",
-      "weight": 0.072284296
+      "weight": 0.0683281
     },
     {
       "symbol": "CNP",
-      "weight": 0.066089705
-    },
-    {
-      "symbol": "NRG",
-      "weight": 0.052048802
+      "weight": 0.0628372
     },
     {
       "symbol": "ETR",
-      "weight": 0.048943702
-    },
-    {
-      "symbol": "SRE",
-      "weight": 0.0485689
+      "weight": 0.0501802
     },
     {
       "symbol": "LNT",
-      "weight": 0.048241
+      "weight": 0.0486208
+    },
+    {
+      "symbol": "SRE",
+      "weight": 0.047367502
     },
     {
       "symbol": "NEE",
-      "weight": 0.047003597
+      "weight": 0.0466219
+    },
+    {
+      "symbol": "NRG",
+      "weight": 0.046423502
     }
   ]
 }

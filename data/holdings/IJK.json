@@ -2,44 +2,44 @@
   "symbol": "IJK",
   "holdings": [
     {
-      "symbol": "LITE",
-      "weight": 0.0276789
-    },
-    {
-      "symbol": "COHR",
-      "weight": 0.0226617
+      "symbol": "FLEX",
+      "weight": 0.019341
     },
     {
       "symbol": "FTI",
-      "weight": 0.0149386
+      "weight": 0.0175649
     },
     {
       "symbol": "CW",
-      "weight": 0.014379701
-    },
-    {
-      "symbol": "CASY",
-      "weight": 0.014193701
+      "weight": 0.0152572
     },
     {
       "symbol": "XPO",
-      "weight": 0.013760099
+      "weight": 0.0148174
     },
     {
-      "symbol": "RGLD",
-      "weight": 0.0135266995
+      "symbol": "UTHR",
+      "weight": 0.0141344
     },
     {
-      "symbol": "FLEX",
-      "weight": 0.0129787
+      "symbol": "FN",
+      "weight": 0.014069701
     },
     {
-      "symbol": "WWD",
-      "weight": 0.0129168
+      "symbol": "MTZ",
+      "weight": 0.0138885
     },
     {
-      "symbol": "ATI",
-      "weight": 0.0123785
+      "symbol": "NVT",
+      "weight": 0.013249201
+    },
+    {
+      "symbol": "TWLO",
+      "weight": 0.0128981
+    },
+    {
+      "symbol": "P",
+      "weight": 0.0128774
     }
   ]
 }

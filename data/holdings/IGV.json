@@ -3,43 +3,43 @@
   "holdings": [
     {
       "symbol": "MSFT",
-      "weight": 0.093769506
-    },
-    {
-      "symbol": "PLTR",
-      "weight": 0.0834164
-    },
-    {
-      "symbol": "CRM",
-      "weight": 0.0764746
+      "weight": 0.087913506
     },
     {
       "symbol": "ORCL",
-      "weight": 0.074495405
+      "weight": 0.086362496
+    },
+    {
+      "symbol": "PLTR",
+      "weight": 0.080097
+    },
+    {
+      "symbol": "CRM",
+      "weight": 0.0667998
     },
     {
       "symbol": "PANW",
-      "weight": 0.0497395
+      "weight": 0.0585194
     },
     {
       "symbol": "APP",
-      "weight": 0.048529603
-    },
-    {
-      "symbol": "INTU",
-      "weight": 0.0470313
-    },
-    {
-      "symbol": "ADBE",
-      "weight": 0.046146404
+      "weight": 0.048849702
     },
     {
       "symbol": "CRWD",
-      "weight": 0.039219
+      "weight": 0.0459311
     },
     {
-      "symbol": "NOW",
-      "weight": 0.0382704
+      "symbol": "ADBE",
+      "weight": 0.041292
+    },
+    {
+      "symbol": "INTU",
+      "weight": 0.040760897
+    },
+    {
+      "symbol": "SNPS",
+      "weight": 0.0377386
     }
   ]
 }

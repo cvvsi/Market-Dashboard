@@ -2,44 +2,44 @@
   "symbol": "KIE",
   "holdings": [
     {
-      "symbol": "CB",
-      "weight": 0.0215919
+      "symbol": "OSCR",
+      "weight": 0.024499
     },
     {
-      "symbol": "RNR",
-      "weight": 0.0214046
+      "symbol": "KMPR",
+      "weight": 0.020605499
     },
     {
-      "symbol": "TRV",
-      "weight": 0.0208296
+      "symbol": "MET",
+      "weight": 0.0203918
     },
     {
-      "symbol": "FAF",
-      "weight": 0.020748898
+      "symbol": "PFG",
+      "weight": 0.020376898
     },
     {
-      "symbol": "RGA",
-      "weight": 0.020501202
+      "symbol": "LNC",
+      "weight": 0.020301199
     },
     {
-      "symbol": "ACGL",
-      "weight": 0.020492101
+      "symbol": "SPNT",
+      "weight": 0.0202708
     },
     {
-      "symbol": "WTM",
-      "weight": 0.0203375
+      "symbol": "PRI",
+      "weight": 0.0199546
     },
     {
-      "symbol": "HIG",
-      "weight": 0.0203028
+      "symbol": "CNO",
+      "weight": 0.019826401
     },
     {
-      "symbol": "GL",
-      "weight": 0.0202157
+      "symbol": "STC",
+      "weight": 0.0197994
     },
     {
-      "symbol": "L",
-      "weight": 0.0201317
+      "symbol": "EG",
+      "weight": 0.019765
     }
   ]
 }

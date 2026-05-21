@@ -3,43 +3,43 @@
   "holdings": [
     {
       "symbol": "FIGS",
-      "weight": 0.0537733
+      "weight": 0.0509025
     },
     {
       "symbol": "LQDT",
-      "weight": 0.0355322
-    },
-    {
-      "symbol": "RVLV",
-      "weight": 0.0299267
-    },
-    {
-      "symbol": "EBAY",
-      "weight": 0.029590098
-    },
-    {
-      "symbol": "ABNB",
-      "weight": 0.029098202
-    },
-    {
-      "symbol": "MSM",
-      "weight": 0.0285624
+      "weight": 0.0391768
     },
     {
       "symbol": "CVNA",
-      "weight": 0.028469501
+      "weight": 0.0329679
+    },
+    {
+      "symbol": "EBAY",
+      "weight": 0.0329471
+    },
+    {
+      "symbol": "MSM",
+      "weight": 0.0304346
     },
     {
       "symbol": "CART",
-      "weight": 0.0271942
+      "weight": 0.0300169
     },
     {
       "symbol": "EXPE",
-      "weight": 0.026614899
+      "weight": 0.0299665
+    },
+    {
+      "symbol": "RVLV",
+      "weight": 0.0295947
+    },
+    {
+      "symbol": "ABNB",
+      "weight": 0.029553002
     },
     {
       "symbol": "ETSY",
-      "weight": 0.024019402
+      "weight": 0.0275301
     }
   ]
 }

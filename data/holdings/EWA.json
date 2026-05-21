@@ -2,44 +2,44 @@
   "symbol": "EWA",
   "holdings": [
     {
-      "symbol": "BHP.AX",
-      "weight": 0.1407837
-    },
-    {
       "symbol": "CBA.AX",
-      "weight": 0.1386769
+      "weight": 0.1460657
     },
     {
-      "symbol": "NAB.AX",
-      "weight": 0.0713592
+      "symbol": "BHP.AX",
+      "weight": 0.1371319
     },
     {
       "symbol": "WBC.AX",
-      "weight": 0.069048904
+      "weight": 0.0661846
+    },
+    {
+      "symbol": "NAB.AX",
+      "weight": 0.0614859
     },
     {
       "symbol": "ANZ.AX",
-      "weight": 0.057269502
-    },
-    {
-      "symbol": "WES.AX",
-      "weight": 0.0429034
+      "weight": 0.0555236
     },
     {
       "symbol": "MQG.AX",
-      "weight": 0.036666702
+      "weight": 0.042781502
     },
     {
-      "symbol": "CSL.AX",
-      "weight": 0.0337726
+      "symbol": "WES.AX",
+      "weight": 0.0416086
+    },
+    {
+      "symbol": "WDS.AX",
+      "weight": 0.0320575
     },
     {
       "symbol": "RIO.AX",
-      "weight": 0.0294957
+      "weight": 0.031244399
     },
     {
       "symbol": "GMG.AX",
-      "weight": 0.0280626
+      "weight": 0.030400401
     }
   ]
 }

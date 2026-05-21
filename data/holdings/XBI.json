@@ -2,44 +2,44 @@
   "symbol": "XBI",
   "holdings": [
     {
-      "symbol": "MRNA",
-      "weight": 0.0224587
-    },
-    {
-      "symbol": "ROIV",
-      "weight": 0.0174028
-    },
-    {
-      "symbol": "PCVX",
-      "weight": 0.0172789
-    },
-    {
-      "symbol": "ACLX",
-      "weight": 0.016555801
+      "symbol": "APLS",
+      "weight": 0.0186512
     },
     {
       "symbol": "RVMD",
-      "weight": 0.0159434
+      "weight": 0.0164747
     },
     {
-      "symbol": "PRAX",
-      "weight": 0.0156675
+      "symbol": "TVTX",
+      "weight": 0.016204601
     },
     {
-      "symbol": "AMGN",
-      "weight": 0.014981001
+      "symbol": "ARWR",
+      "weight": 0.014397699
     },
     {
-      "symbol": "GILD",
-      "weight": 0.0149413
+      "symbol": "TWST",
+      "weight": 0.0141993
     },
     {
-      "symbol": "FOLD",
-      "weight": 0.0148252
+      "symbol": "SMMT",
+      "weight": 0.0140325
     },
     {
-      "symbol": "MIRM",
-      "weight": 0.014084199
+      "symbol": "ALKS",
+      "weight": 0.0138196
+    },
+    {
+      "symbol": "TGTX",
+      "weight": 0.013710001
+    },
+    {
+      "symbol": "MDGL",
+      "weight": 0.013647701
+    },
+    {
+      "symbol": "BEAM",
+      "weight": 0.0132399
     }
   ]
 }

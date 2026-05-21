@@ -2,44 +2,44 @@
   "symbol": "KBE",
   "holdings": [
     {
-      "symbol": "BPOP",
-      "weight": 0.0120419
+      "symbol": "VOYA",
+      "weight": 0.011410001
     },
     {
-      "symbol": "WBS",
-      "weight": 0.012038
+      "symbol": "APO",
+      "weight": 0.011195901
     },
     {
-      "symbol": "WSFS",
-      "weight": 0.011909501
+      "symbol": "FBP",
+      "weight": 0.011070699
     },
     {
-      "symbol": "BBT",
-      "weight": 0.011859501
+      "symbol": "EWBC",
+      "weight": 0.0110426
     },
     {
-      "symbol": "CASH",
-      "weight": 0.0117457
+      "symbol": "TFIN",
+      "weight": 0.0109385
     },
     {
-      "symbol": "BOH",
-      "weight": 0.0116314
+      "symbol": "NTRS",
+      "weight": 0.0108947
     },
     {
-      "symbol": "SFBS",
-      "weight": 0.0114128
+      "symbol": "CATY",
+      "weight": 0.0108311
     },
     {
-      "symbol": "VLY",
-      "weight": 0.0113835
+      "symbol": "CRBG",
+      "weight": 0.0108244
     },
     {
-      "symbol": "CFR",
-      "weight": 0.011359399
+      "symbol": "C",
+      "weight": 0.0108168
     },
     {
-      "symbol": "MTB",
-      "weight": 0.0113234
+      "symbol": "WAL",
+      "weight": 0.0108117
     }
   ]
 }

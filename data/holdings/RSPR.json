@@ -2,44 +2,44 @@
   "symbol": "RSPR",
   "holdings": [
     {
-      "symbol": "EQIX",
-      "weight": 0.0398385
+      "symbol": "SBAC",
+      "weight": 0.036414698
     },
     {
       "symbol": "IRM",
-      "weight": 0.0380824
+      "weight": 0.0363498
     },
     {
-      "symbol": "O",
-      "weight": 0.035538003
+      "symbol": "INVH",
+      "weight": 0.0354244
     },
     {
-      "symbol": "REG",
-      "weight": 0.0353361
+      "symbol": "BXP",
+      "weight": 0.0347969
     },
     {
-      "symbol": "KIM",
-      "weight": 0.0352882
+      "symbol": "DLR",
+      "weight": 0.0345397
     },
     {
-      "symbol": "EXR",
-      "weight": 0.0349821
+      "symbol": "EQIX",
+      "weight": 0.0345298
     },
     {
-      "symbol": "ARE",
-      "weight": 0.0349561
+      "symbol": "HST",
+      "weight": 0.0341793
     },
     {
-      "symbol": "PSA",
-      "weight": 0.0344888
+      "symbol": "EQR",
+      "weight": 0.0337352
+    },
+    {
+      "symbol": "CBRE",
+      "weight": 0.0334393
     },
     {
       "symbol": "SPG",
-      "weight": 0.033735298
-    },
-    {
-      "symbol": "FRT",
-      "weight": 0.0335357
+      "weight": 0.0333592
     }
   ]
 }

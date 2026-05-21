@@ -3,43 +3,43 @@
   "holdings": [
     {
       "symbol": "AG.TO",
-      "weight": 0.1226224
+      "weight": 0.1034244
     },
     {
       "symbol": "CDE",
-      "weight": 0.1060402
+      "weight": 0.09614041
     },
     {
       "symbol": "HL",
-      "weight": 0.0883053
+      "weight": 0.087502696
     },
     {
       "symbol": "WPM.TO",
-      "weight": 0.0554041
-    },
-    {
-      "symbol": "EXK",
-      "weight": 0.045266498
+      "weight": 0.0586539
     },
     {
       "symbol": "HYMC",
-      "weight": 0.042677302
+      "weight": 0.042317
     },
     {
-      "symbol": "PPTA.TO",
-      "weight": 0.0361491
+      "symbol": "EXK",
+      "weight": 0.0411733
     },
     {
       "symbol": "PAAS.TO",
-      "weight": 0.0356782
+      "weight": 0.0371992
+    },
+    {
+      "symbol": "PPTA.TO",
+      "weight": 0.0370919
+    },
+    {
+      "symbol": "KGH.WA",
+      "weight": 0.0361348
     },
     {
       "symbol": "BVN",
-      "weight": 0.0347721
-    },
-    {
-      "symbol": "BOL.ST",
-      "weight": 0.0325143
+      "weight": 0.0355457
     }
   ]
 }

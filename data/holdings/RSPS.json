@@ -2,44 +2,44 @@
   "symbol": "RSPS",
   "holdings": [
     {
-      "symbol": "BG",
-      "weight": 0.0325223
+      "symbol": "MDLZ",
+      "weight": 0.0317952
     },
     {
-      "symbol": "HSY",
-      "weight": 0.0323584
+      "symbol": "MO",
+      "weight": 0.031375002
     },
     {
-      "symbol": "CL",
-      "weight": 0.0314495
-    },
-    {
-      "symbol": "CHD",
-      "weight": 0.031048201
-    },
-    {
-      "symbol": "PM",
-      "weight": 0.0307828
-    },
-    {
-      "symbol": "DG",
-      "weight": 0.0306174
-    },
-    {
-      "symbol": "CLX",
-      "weight": 0.0306019
-    },
-    {
-      "symbol": "SYY",
-      "weight": 0.0305654
+      "symbol": "CASY",
+      "weight": 0.0313087
     },
     {
       "symbol": "TGT",
-      "weight": 0.029669398
+      "weight": 0.0312935
     },
     {
-      "symbol": "PG",
-      "weight": 0.0295109
+      "symbol": "TSN",
+      "weight": 0.0306905
+    },
+    {
+      "symbol": "WMT",
+      "weight": 0.030607
+    },
+    {
+      "symbol": "BF-B",
+      "weight": 0.030482199
+    },
+    {
+      "symbol": "KDP",
+      "weight": 0.030462401
+    },
+    {
+      "symbol": "ADM",
+      "weight": 0.030150399
+    },
+    {
+      "symbol": "STZ",
+      "weight": 0.029913
     }
   ]
 }

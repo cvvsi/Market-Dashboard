@@ -2,44 +2,44 @@
   "symbol": "XOP",
   "holdings": [
     {
-      "symbol": "TPL",
-      "weight": 0.0409205
+      "symbol": "APA",
+      "weight": 0.029445902
     },
     {
-      "symbol": "VG",
-      "weight": 0.037062198
+      "symbol": "MUR",
+      "weight": 0.0292766
     },
     {
-      "symbol": "XOM",
-      "weight": 0.0296166
+      "symbol": "SM",
+      "weight": 0.028857999
     },
     {
-      "symbol": "OXY",
-      "weight": 0.0295177
+      "symbol": "DINO",
+      "weight": 0.0284089
     },
     {
-      "symbol": "CRC",
-      "weight": 0.0287108
+      "symbol": "CHRD",
+      "weight": 0.0278088
     },
     {
-      "symbol": "CVX",
-      "weight": 0.0286349
+      "symbol": "FANG",
+      "weight": 0.027746301
     },
     {
-      "symbol": "PR",
-      "weight": 0.028289499
+      "symbol": "CTRA",
+      "weight": 0.0273028
     },
     {
-      "symbol": "OVV",
-      "weight": 0.0281922
+      "symbol": "DVN",
+      "weight": 0.0269937
     },
     {
-      "symbol": "MGY",
-      "weight": 0.0280943
+      "symbol": "MTDR",
+      "weight": 0.0268881
     },
     {
-      "symbol": "COP",
-      "weight": 0.027211899
+      "symbol": "VNOM",
+      "weight": 0.0268661
     }
   ]
 }

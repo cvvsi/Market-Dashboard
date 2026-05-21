@@ -3,43 +3,43 @@
   "holdings": [
     {
       "symbol": "BHP",
-      "weight": 0.0896382
+      "weight": 0.0778022
     },
     {
       "symbol": "RIO",
-      "weight": 0.086670704
-    },
-    {
-      "symbol": "VALE",
-      "weight": 0.0769758
-    },
-    {
-      "symbol": "MT",
-      "weight": 0.0601977
-    },
-    {
-      "symbol": "RIO.AX",
-      "weight": 0.059659902
-    },
-    {
-      "symbol": "FMG.AX",
-      "weight": 0.0540594
+      "weight": 0.077604696
     },
     {
       "symbol": "NUE",
-      "weight": 0.053697098
+      "weight": 0.0718954
+    },
+    {
+      "symbol": "VALE",
+      "weight": 0.0669541
+    },
+    {
+      "symbol": "RIO.AX",
+      "weight": 0.0655754
     },
     {
       "symbol": "PKX",
-      "weight": 0.0478195
+      "weight": 0.0534965
+    },
+    {
+      "symbol": "FMG.AX",
+      "weight": 0.0510433
     },
     {
       "symbol": "STLD",
-      "weight": 0.0422015
+      "weight": 0.050725296
     },
     {
       "symbol": "RS",
-      "weight": 0.0408771
+      "weight": 0.0486033
+    },
+    {
+      "symbol": "MT",
+      "weight": 0.0456965
     }
   ]
 }

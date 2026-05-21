@@ -2,44 +2,44 @@
   "symbol": "EWL",
   "holdings": [
     {
-      "symbol": "ROG.SW",
-      "weight": 0.1512936
+      "symbol": "ROP.SW",
+      "weight": 0.1396103
     },
     {
       "symbol": "NOVN.SW",
-      "weight": 0.145402
+      "weight": 0.1373515
     },
     {
       "symbol": "NESN.SW",
-      "weight": 0.1262842
-    },
-    {
-      "symbol": "ZURN.SW",
-      "weight": 0.0449184
+      "weight": 0.1264344
     },
     {
       "symbol": "ABBN.SW",
-      "weight": 0.044896998
-    },
-    {
-      "symbol": "CFR.SW",
-      "weight": 0.043235604
+      "weight": 0.0521555
     },
     {
       "symbol": "UBSG.SW",
-      "weight": 0.0429632
+      "weight": 0.0492515
+    },
+    {
+      "symbol": "ZURN.SW",
+      "weight": 0.044748403
+    },
+    {
+      "symbol": "CFR.SW",
+      "weight": 0.043427702
     },
     {
       "symbol": "SREN.SW",
-      "weight": 0.026043799
-    },
-    {
-      "symbol": "LONN.SW",
-      "weight": 0.0244315
+      "weight": 0.0256404
     },
     {
       "symbol": "HOLN.SW",
-      "weight": 0.0234918
+      "weight": 0.0255685
+    },
+    {
+      "symbol": "LONN.SW",
+      "weight": 0.0232097
     }
   ]
 }

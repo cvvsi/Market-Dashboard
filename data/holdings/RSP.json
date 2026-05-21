@@ -2,44 +2,44 @@
   "symbol": "RSP",
   "holdings": [
     {
+      "symbol": "INTC",
+      "weight": 0.0037844
+    },
+    {
+      "symbol": "STX",
+      "weight": 0.0033565
+    },
+    {
+      "symbol": "AMD",
+      "weight": 0.003329
+    },
+    {
+      "symbol": "ON",
+      "weight": 0.0032729
+    },
+    {
       "symbol": "SNDK",
-      "weight": 0.0051279003
-    },
-    {
-      "symbol": "MRNA",
-      "weight": 0.0034628
-    },
-    {
-      "symbol": "TPL",
-      "weight": 0.0033133
-    },
-    {
-      "symbol": "GLW",
-      "weight": 0.0029960999
-    },
-    {
-      "symbol": "TER",
-      "weight": 0.0029425002
-    },
-    {
-      "symbol": "MU",
-      "weight": 0.0029383001
+      "weight": 0.0032152
     },
     {
       "symbol": "WDC",
-      "weight": 0.0028836
+      "weight": 0.0031074
     },
     {
-      "symbol": "Q",
-      "weight": 0.0027584
+      "symbol": "CIEN",
+      "weight": 0.0029823
     },
     {
-      "symbol": "FCX",
-      "weight": 0.0027552
+      "symbol": "MPWR",
+      "weight": 0.0028952
     },
     {
-      "symbol": "KEYS",
-      "weight": 0.00271
+      "symbol": "CNC",
+      "weight": 0.0028779
+    },
+    {
+      "symbol": "NXPI",
+      "weight": 0.0028224
     }
   ]
 }

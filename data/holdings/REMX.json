@@ -2,44 +2,44 @@
   "symbol": "REMX",
   "holdings": [
     {
-      "symbol": "600111.SS",
-      "weight": 0.079012096
-    },
-    {
       "symbol": "ALB",
-      "weight": 0.076477
-    },
-    {
-      "symbol": "LYC.AX",
-      "weight": 0.0725565
-    },
-    {
-      "symbol": "600549.SS",
-      "weight": 0.0697778
-    },
-    {
-      "symbol": "AII.TO",
-      "weight": 0.0673754
-    },
-    {
-      "symbol": "601958.SS",
-      "weight": 0.0570974
+      "weight": 0.086938
     },
     {
       "symbol": "PLS.AX",
-      "weight": 0.0565377
+      "weight": 0.074832805
     },
     {
-      "symbol": "600392.SS",
-      "weight": 0.052154697
+      "symbol": "LYC.AX",
+      "weight": 0.0721428
+    },
+    {
+      "symbol": "600111.SS",
+      "weight": 0.065216996
+    },
+    {
+      "symbol": "LTR.AX",
+      "weight": 0.0630466
+    },
+    {
+      "symbol": "01772",
+      "weight": 0.0582882
     },
     {
       "symbol": "MP",
-      "weight": 0.050613597
+      "weight": 0.0565122
     },
     {
       "symbol": "SQM",
-      "weight": 0.0467632
+      "weight": 0.055914797
+    },
+    {
+      "symbol": "600549.SS",
+      "weight": 0.0451406
+    },
+    {
+      "symbol": "600392.SS",
+      "weight": 0.040949896
     }
   ]
 }

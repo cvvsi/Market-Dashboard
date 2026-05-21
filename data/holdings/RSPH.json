@@ -2,44 +2,44 @@
   "symbol": "RSPH",
   "holdings": [
     {
-      "symbol": "MRNA",
-      "weight": 0.0292953
+      "symbol": "CNC",
+      "weight": 0.0264847
     },
     {
-      "symbol": "DVA",
-      "weight": 0.0208986
+      "symbol": "HUM",
+      "weight": 0.0244583
+    },
+    {
+      "symbol": "UNH",
+      "weight": 0.0229719
+    },
+    {
+      "symbol": "ELV",
+      "weight": 0.0229675
+    },
+    {
+      "symbol": "WST",
+      "weight": 0.0220874
+    },
+    {
+      "symbol": "CI",
+      "weight": 0.019696899
+    },
+    {
+      "symbol": "CVS",
+      "weight": 0.019458
     },
     {
       "symbol": "VTRS",
-      "weight": 0.020437501
+      "weight": 0.0189167
     },
     {
-      "symbol": "MRK",
-      "weight": 0.0201399
+      "symbol": "MTD",
+      "weight": 0.018405499
     },
     {
-      "symbol": "AMGN",
-      "weight": 0.0195396
-    },
-    {
-      "symbol": "GILD",
-      "weight": 0.0194899
-    },
-    {
-      "symbol": "BMY",
-      "weight": 0.0193392
-    },
-    {
-      "symbol": "MCK",
-      "weight": 0.019281201
-    },
-    {
-      "symbol": "JNJ",
-      "weight": 0.0190958
-    },
-    {
-      "symbol": "DGX",
-      "weight": 0.018733
+      "symbol": "WAT",
+      "weight": 0.0183858
     }
   ]
 }
